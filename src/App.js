@@ -1,8 +1,9 @@
 import './App.css';
+import Landing from './components/Landing';
 
 function App() {
   return (
-    <h1>A Partager Montreal</h1>
+    <Landing />
   );
 }
 
